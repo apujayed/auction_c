@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cba20fb1.chunk.css",
+    "main.js": "/static/js/main.56d33fd8.chunk.js",
+    "main.js.map": "/static/js/main.56d33fd8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.93224254.js",
+    "runtime-main.js.map": "/static/js/runtime-main.93224254.js.map",
+    "static/css/2.777814d4.chunk.css": "/static/css/2.777814d4.chunk.css",
+    "static/js/2.0d2a02cd.chunk.js": "/static/js/2.0d2a02cd.chunk.js",
+    "static/js/2.0d2a02cd.chunk.js.map": "/static/js/2.0d2a02cd.chunk.js.map",
+    "static/js/3.cdf698db.chunk.js": "/static/js/3.cdf698db.chunk.js",
+    "static/js/3.cdf698db.chunk.js.map": "/static/js/3.cdf698db.chunk.js.map",
+    "static/js/4.95486ae2.chunk.js": "/static/js/4.95486ae2.chunk.js",
+    "static/js/4.95486ae2.chunk.js.map": "/static/js/4.95486ae2.chunk.js.map",
+    "static/js/5.83c8c2af.chunk.js": "/static/js/5.83c8c2af.chunk.js",
+    "static/js/5.83c8c2af.chunk.js.map": "/static/js/5.83c8c2af.chunk.js.map",
+    "static/js/6.92a951cd.chunk.js": "/static/js/6.92a951cd.chunk.js",
+    "static/js/6.92a951cd.chunk.js.map": "/static/js/6.92a951cd.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.777814d4.chunk.css.map": "/static/css/2.777814d4.chunk.css.map",
+    "static/css/main.cba20fb1.chunk.css.map": "/static/css/main.cba20fb1.chunk.css.map",
+    "static/js/2.0d2a02cd.chunk.js.LICENSE.txt": "/static/js/2.0d2a02cd.chunk.js.LICENSE.txt",
+    "static/js/3.cdf698db.chunk.js.LICENSE.txt": "/static/js/3.cdf698db.chunk.js.LICENSE.txt",
+    "static/js/4.95486ae2.chunk.js.LICENSE.txt": "/static/js/4.95486ae2.chunk.js.LICENSE.txt",
+    "static/js/5.83c8c2af.chunk.js.LICENSE.txt": "/static/js/5.83c8c2af.chunk.js.LICENSE.txt",
+    "static/media/logo.281e0d80.png": "/static/media/logo.281e0d80.png",
+    "static/media/message.17f316c9.mp3": "/static/media/message.17f316c9.mp3",
+    "static/media/tea-leaf.f745c21f.png": "/static/media/tea-leaf.f745c21f.png",
+    "static/media/trading.c31da198.jpg": "/static/media/trading.c31da198.jpg",
+    "static/media/user.b2be6b8c.jpg": "/static/media/user.b2be6b8c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.93224254.js",
+    "static/css/2.777814d4.chunk.css",
+    "static/js/2.0d2a02cd.chunk.js",
+    "static/css/main.cba20fb1.chunk.css",
+    "static/js/main.56d33fd8.chunk.js"
+  ]
+}
